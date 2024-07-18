@@ -1,6 +1,5 @@
 # React Project: Flight booking System Web Application
 
-This project has been developed online using codesandbox.io
 
 ## Node/NPM Versions
 
